@@ -50,13 +50,6 @@ This is our Tensorflow implementation for the paper:
 ## 数据集
 我们使用MovieLens数据集进行实验验证，用户角度分别考虑了性别，年龄和职业三个敏感属性
 
-
-|:---:|:---|---:|---:|
-|数据集| #用户数 | 物品数| 敏感属性 | 
-|MovieLens | #9940 | 6640 | 3 |
-
-
-
 * `rating.txt`
   * 用户ID 电影ID 评分数
 
